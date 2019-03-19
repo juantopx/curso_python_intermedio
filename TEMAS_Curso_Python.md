@@ -15,3 +15,7 @@ Este curso teórico está diseñado para consolidar tus conocimientos de Python,
 ## Modulo 4
 
 ## Índice de Módulos
+
+## Modulo 5
+
+### 1. Tipado dinámico y fuerte  
