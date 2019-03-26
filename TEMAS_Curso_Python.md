@@ -23,3 +23,7 @@ Este curso teórico está diseñado para consolidar tus conocimientos de Python,
 ## Modulo 6
 
 Explora cómo Python maneja los tipos en tiempo de ejecución y las implicaciones de su tipado fuerte en el diseño de programas.
+
+## Modulo 7
+
+### 2. Mutabilidad e inmutabilidad  
