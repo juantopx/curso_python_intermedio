@@ -27,3 +27,7 @@ Explora cómo Python maneja los tipos en tiempo de ejecución y las implicacione
 ## Modulo 7
 
 ### 2. Mutabilidad e inmutabilidad  
+
+## Modulo 8
+
+Comprende la diferencia entre objetos mutables e inmutables, y cómo esto afecta a la gestión de memoria y referencias.
