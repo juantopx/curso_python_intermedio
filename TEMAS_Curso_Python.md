@@ -31,3 +31,7 @@ Explora cómo Python maneja los tipos en tiempo de ejecución y las implicacione
 ## Modulo 8
 
 Comprende la diferencia entre objetos mutables e inmutables, y cómo esto afecta a la gestión de memoria y referencias.
+
+## Modulo 9
+
+### 3. Funciones avanzadas  
