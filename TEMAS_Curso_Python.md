@@ -35,3 +35,7 @@ Comprende la diferencia entre objetos mutables e inmutables, y cómo esto afecta
 ## Modulo 9
 
 ### 3. Funciones avanzadas  
+
+## Modulo 10
+
+Aprende a usar argumentos posicionales, nombrados, valores por defecto y el comportamiento de evaluación de argumentos.
