@@ -43,3 +43,7 @@ Aprende a usar argumentos posicionales, nombrados, valores por defecto y el comp
 ## Modulo 11
 
 ### 4. Funciones lambda  
+
+## Modulo 12
+
+Uso de funciones anónimas para expresiones simples, especialmente como argumentos de funciones de orden superior.
