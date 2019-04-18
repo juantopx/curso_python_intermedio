@@ -51,3 +51,7 @@ Uso de funciones anónimas para expresiones simples, especialmente como argument
 ## Modulo 13
 
 ### 5. Comprensiones y estructuras derivadas  
+
+## Modulo 14
+
+Construcción eficiente de listas, diccionarios y sets mediante comprensiones y filtros en una sola línea de código.
