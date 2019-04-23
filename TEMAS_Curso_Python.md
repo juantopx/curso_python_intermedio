@@ -55,3 +55,7 @@ Uso de funciones anónimas para expresiones simples, especialmente como argument
 ## Modulo 14
 
 Construcción eficiente de listas, diccionarios y sets mediante comprensiones y filtros en una sola línea de código.
+
+## Modulo 15
+
+### 6. Iteradores y generadores  
