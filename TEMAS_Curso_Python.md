@@ -59,3 +59,7 @@ Construcción eficiente de listas, diccionarios y sets mediante comprensiones y 
 ## Modulo 15
 
 ### 6. Iteradores y generadores  
+
+## Modulo 16
+
+Creación de estructuras iterables personalizadas y uso de `yield` para producir secuencias perezosas.
