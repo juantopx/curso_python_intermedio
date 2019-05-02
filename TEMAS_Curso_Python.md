@@ -67,3 +67,7 @@ Creación de estructuras iterables personalizadas y uso de `yield` para producir
 ## Modulo 17
 
 ### 7. Decoradores  
+
+## Modulo 18
+
+Modificación del comportamiento de funciones mediante decoradores simples y anidados.
