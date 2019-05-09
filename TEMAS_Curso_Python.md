@@ -75,3 +75,7 @@ Modificación del comportamiento de funciones mediante decoradores simples y ani
 ## Modulo 19
 
 ### 8. Clases y objetos  
+
+## Modulo 20
+
+Revisión de conceptos fundamentales de programación orientada a objetos: clases, atributos, instancias y métodos.
