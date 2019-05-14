@@ -79,3 +79,7 @@ Modificación del comportamiento de funciones mediante decoradores simples y ani
 ## Modulo 20
 
 Revisión de conceptos fundamentales de programación orientada a objetos: clases, atributos, instancias y métodos.
+
+## Modulo 21
+
+### 9. Métodos especiales (`__init__`, `__str__`, etc.)  
