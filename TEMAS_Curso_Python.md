@@ -83,3 +83,7 @@ Revisión de conceptos fundamentales de programación orientada a objetos: clase
 ## Modulo 21
 
 ### 9. Métodos especiales (`__init__`, `__str__`, etc.)  
+
+## Modulo 22
+
+Uso de métodos mágicos para personalizar el comportamiento de los objetos.
