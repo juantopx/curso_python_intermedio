@@ -87,3 +87,7 @@ Revisión de conceptos fundamentales de programación orientada a objetos: clase
 ## Modulo 22
 
 Uso de métodos mágicos para personalizar el comportamiento de los objetos.
+
+## Modulo 23
+
+### 10. Herencia y polimorfismo  
