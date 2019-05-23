@@ -91,3 +91,7 @@ Uso de métodos mágicos para personalizar el comportamiento de los objetos.
 ## Modulo 23
 
 ### 10. Herencia y polimorfismo  
+
+## Modulo 24
+
+Implementación de jerarquías de clases reutilizables, incluyendo herencia múltiple y sobrescritura de métodos.
