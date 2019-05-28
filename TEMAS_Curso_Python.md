@@ -95,3 +95,7 @@ Uso de métodos mágicos para personalizar el comportamiento de los objetos.
 ## Modulo 24
 
 Implementación de jerarquías de clases reutilizables, incluyendo herencia múltiple y sobrescritura de métodos.
+
+## Modulo 25
+
+### 11. Métodos estáticos y de clase  
