@@ -99,3 +99,7 @@ Implementación de jerarquías de clases reutilizables, incluyendo herencia múl
 ## Modulo 25
 
 ### 11. Métodos estáticos y de clase  
+
+## Modulo 26
+
+Diferencias entre métodos de instancia, estáticos (`@staticmethod`) y de clase (`@classmethod`).
