@@ -115,3 +115,7 @@ Cómo proteger atributos y métodos mediante convenciones (`_`, `__`) y fomentar
 ## Modulo 29
 
 ### 13. Clases abstractas y `abc`  
+
+## Modulo 30
+
+Definición de interfaces mediante clases abstractas y contratos en Python usando el módulo `abc`.
