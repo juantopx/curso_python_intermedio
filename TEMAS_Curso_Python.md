@@ -127,3 +127,7 @@ Definición de interfaces mediante clases abstractas y contratos en Python usand
 ## Modulo 32
 
 Organización de código en módulos reutilizables y paquetes jerárquicos; importaciones absolutas y relativas.
+
+## Modulo 33
+
+### 15. Gestión de excepciones  
