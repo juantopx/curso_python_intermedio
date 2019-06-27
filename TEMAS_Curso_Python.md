@@ -131,3 +131,7 @@ Organización de código en módulos reutilizables y paquetes jerárquicos; impo
 ## Modulo 33
 
 ### 15. Gestión de excepciones  
+
+## Modulo 34
+
+Manejo adecuado de errores mediante bloques `try/except`, `finally`, y definición de excepciones personalizadas.
