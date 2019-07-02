@@ -135,3 +135,7 @@ Organización de código en módulos reutilizables y paquetes jerárquicos; impo
 ## Modulo 34
 
 Manejo adecuado de errores mediante bloques `try/except`, `finally`, y definición de excepciones personalizadas.
+
+## Modulo 35
+
+### 16. Context managers y `with`  
