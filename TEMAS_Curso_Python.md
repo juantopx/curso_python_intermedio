@@ -139,3 +139,7 @@ Manejo adecuado de errores mediante bloques `try/except`, `finally`, y definici√
 ## Modulo 35
 
 ### 16. Context managers y `with`  
+
+## Modulo 36
+
+Uso de `with` para manejar recursos, como archivos, de forma segura y eficiente; creaci√≥n de context managers personalizados.
