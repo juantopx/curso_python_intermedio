@@ -143,3 +143,7 @@ Manejo adecuado de errores mediante bloques `try/except`, `finally`, y definici�
 ## Modulo 36
 
 Uso de `with` para manejar recursos, como archivos, de forma segura y eficiente; creación de context managers personalizados.
+
+## Modulo 37
+
+### 17. Tipado estático con `typing`  
