@@ -147,3 +147,7 @@ Uso de `with` para manejar recursos, como archivos, de forma segura y eficiente;
 ## Modulo 37
 
 ### 17. Tipado estático con `typing`  
+
+## Modulo 38
+
+Uso de anotaciones de tipo para mejorar la legibilidad y robustez del código con herramientas como `mypy`.
