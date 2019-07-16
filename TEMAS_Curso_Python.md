@@ -151,3 +151,7 @@ Uso de `with` para manejar recursos, como archivos, de forma segura y eficiente;
 ## Modulo 38
 
 Uso de anotaciones de tipo para mejorar la legibilidad y robustez del código con herramientas como `mypy`.
+
+## Modulo 39
+
+### 18. Uso avanzado de listas, tuplas y diccionarios  
