@@ -155,3 +155,7 @@ Uso de anotaciones de tipo para mejorar la legibilidad y robustez del código co
 ## Modulo 39
 
 ### 18. Uso avanzado de listas, tuplas y diccionarios  
+
+## Modulo 40
+
+Técnicas de desempaquetado, comprensión de estructuras anidadas y acceso seguro a elementos.
