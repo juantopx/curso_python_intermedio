@@ -159,3 +159,7 @@ Uso de anotaciones de tipo para mejorar la legibilidad y robustez del código co
 ## Modulo 40
 
 Técnicas de desempaquetado, comprensión de estructuras anidadas y acceso seguro a elementos.
+
+## Modulo 41
+
+### 19. Expresiones regulares  
