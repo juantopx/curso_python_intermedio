@@ -8,3 +8,5 @@ Este curso teórico está diseñado para consolidar tus conocimientos de Python,
 ## Índice de Módulos
 
 ### 1. Tipado dinámico y fuerte  
+
+Explora cómo Python maneja los tipos en tiempo de ejecución y las implicaciones de su tipado fuerte en el diseño de programas.
