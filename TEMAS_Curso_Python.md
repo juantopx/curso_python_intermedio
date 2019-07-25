@@ -163,3 +163,7 @@ Técnicas de desempaquetado, comprensión de estructuras anidadas y acceso segur
 ## Modulo 41
 
 ### 19. Expresiones regulares  
+
+## Modulo 42
+
+Uso del módulo `re` para búsqueda, coincidencia y reemplazo de patrones complejos en texto.
