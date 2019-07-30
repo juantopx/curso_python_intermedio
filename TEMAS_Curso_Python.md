@@ -167,3 +167,7 @@ Técnicas de desempaquetado, comprensión de estructuras anidadas y acceso segur
 ## Modulo 42
 
 Uso del módulo `re` para búsqueda, coincidencia y reemplazo de patrones complejos en texto.
+
+## Modulo 43
+
+### 20. Programación funcional  
