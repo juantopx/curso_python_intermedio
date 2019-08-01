@@ -12,3 +12,5 @@ Este curso teórico está diseñado para consolidar tus conocimientos de Python,
 Explora cómo Python maneja los tipos en tiempo de ejecución y las implicaciones de su tipado fuerte en el diseño de programas.
 
 ### 2. Mutabilidad e inmutabilidad  
+
+Comprende la diferencia entre objetos mutables e inmutables, y cómo esto afecta a la gestión de memoria y referencias.
