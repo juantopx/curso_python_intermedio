@@ -171,3 +171,7 @@ Uso del módulo `re` para búsqueda, coincidencia y reemplazo de patrones comple
 ## Modulo 43
 
 ### 20. Programación funcional  
+
+## Modulo 44
+
+Aplicación de `map`, `filter`, `reduce` y funciones puras como herramientas de programación funcional.
