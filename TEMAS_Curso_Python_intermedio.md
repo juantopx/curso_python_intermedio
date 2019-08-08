@@ -16,3 +16,5 @@ Explora cómo Python maneja los tipos en tiempo de ejecución y las implicacione
 Comprende la diferencia entre objetos mutables e inmutables, y cómo esto afecta a la gestión de memoria y referencias.
 
 ### 3. Funciones avanzadas  
+
+Aprende a usar argumentos posicionales, nombrados, valores por defecto y el comportamiento de evaluación de argumentos.
