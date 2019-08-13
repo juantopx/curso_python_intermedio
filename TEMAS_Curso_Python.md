@@ -183,3 +183,7 @@ Aplicación de `map`, `filter`, `reduce` y funciones puras como herramientas de 
 ## Modulo 46
 
 Profundización en generadores con `send`, `yield from`, y su papel en la concurrencia ligera.
+
+## Modulo 47
+
+### 22. Introducción a `async` y `await`  
