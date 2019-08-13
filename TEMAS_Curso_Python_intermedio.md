@@ -18,3 +18,5 @@ Comprende la diferencia entre objetos mutables e inmutables, y cómo esto afecta
 ### 3. Funciones avanzadas  
 
 Aprende a usar argumentos posicionales, nombrados, valores por defecto y el comportamiento de evaluación de argumentos.
+
+### 4. Funciones lambda  
