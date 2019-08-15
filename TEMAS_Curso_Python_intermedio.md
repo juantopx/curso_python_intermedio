@@ -20,3 +20,5 @@ Comprende la diferencia entre objetos mutables e inmutables, y cómo esto afecta
 Aprende a usar argumentos posicionales, nombrados, valores por defecto y el comportamiento de evaluación de argumentos.
 
 ### 4. Funciones lambda  
+
+Uso de funciones anónimas para expresiones simples, especialmente como argumentos de funciones de orden superior.
