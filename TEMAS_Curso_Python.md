@@ -191,3 +191,7 @@ Profundización en generadores con `send`, `yield from`, y su papel en la concur
 ## Modulo 48
 
 Bases de la programación asíncrona con `asyncio`, `await`, y el bucle de eventos.
+
+## Modulo 49
+
+### 23. Manejo de archivos  
