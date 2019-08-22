@@ -24,3 +24,5 @@ Aprende a usar argumentos posicionales, nombrados, valores por defecto y el comp
 Uso de funciones anónimas para expresiones simples, especialmente como argumentos de funciones de orden superior.
 
 ### 5. Comprensiones y estructuras derivadas  
+
+Construcción eficiente de listas, diccionarios y sets mediante comprensiones y filtros en una sola línea de código.
