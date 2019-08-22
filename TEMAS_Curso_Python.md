@@ -195,3 +195,7 @@ Bases de la programación asíncrona con `asyncio`, `await`, y el bucle de event
 ## Modulo 49
 
 ### 23. Manejo de archivos  
+
+## Modulo 50
+
+Lectura y escritura de archivos de texto y binarios; gestión eficiente de recursos con `open()`.
