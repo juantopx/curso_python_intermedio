@@ -199,3 +199,7 @@ Bases de la programación asíncrona con `asyncio`, `await`, y el bucle de event
 ## Modulo 50
 
 Lectura y escritura de archivos de texto y binarios; gestión eficiente de recursos con `open()`.
+
+## Modulo 51
+
+### 24. JSON y serialización  
