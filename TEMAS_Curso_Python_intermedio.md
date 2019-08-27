@@ -26,3 +26,5 @@ Uso de funciones anónimas para expresiones simples, especialmente como argument
 ### 5. Comprensiones y estructuras derivadas  
 
 Construcción eficiente de listas, diccionarios y sets mediante comprensiones y filtros en una sola línea de código.
+
+### 6. Iteradores y generadores  
