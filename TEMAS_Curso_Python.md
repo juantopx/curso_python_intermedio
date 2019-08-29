@@ -203,3 +203,7 @@ Lectura y escritura de archivos de texto y binarios; gestión eficiente de recur
 ## Modulo 51
 
 ### 24. JSON y serialización  
+
+## Modulo 52
+
+Conversión de estructuras Python a JSON y viceversa, para almacenamiento y comunicación.
