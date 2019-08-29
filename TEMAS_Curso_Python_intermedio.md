@@ -28,3 +28,5 @@ Uso de funciones anónimas para expresiones simples, especialmente como argument
 Construcción eficiente de listas, diccionarios y sets mediante comprensiones y filtros en una sola línea de código.
 
 ### 6. Iteradores y generadores  
+
+Creación de estructuras iterables personalizadas y uso de `yield` para producir secuencias perezosas.
