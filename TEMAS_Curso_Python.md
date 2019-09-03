@@ -207,3 +207,7 @@ Lectura y escritura de archivos de texto y binarios; gestión eficiente de recur
 ## Modulo 52
 
 Conversión de estructuras Python a JSON y viceversa, para almacenamiento y comunicación.
+
+## Modulo 53
+
+### 25. Uso de librerías estándar útiles  
