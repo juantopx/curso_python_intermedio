@@ -32,3 +32,5 @@ Construcción eficiente de listas, diccionarios y sets mediante comprensiones y 
 Creación de estructuras iterables personalizadas y uso de `yield` para producir secuencias perezosas.
 
 ### 7. Decoradores  
+
+Modificación del comportamiento de funciones mediante decoradores simples y anidados.
