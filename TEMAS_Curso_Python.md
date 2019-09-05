@@ -211,3 +211,7 @@ Conversión de estructuras Python a JSON y viceversa, para almacenamiento y comu
 ## Modulo 53
 
 ### 25. Uso de librerías estándar útiles  
+
+## Modulo 54
+
+Revisión de módulos estándar como `collections`, `functools`, `itertools`, `os`, `pathlib` y `datetime`.
