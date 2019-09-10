@@ -215,3 +215,7 @@ Conversión de estructuras Python a JSON y viceversa, para almacenamiento y comu
 ## Modulo 54
 
 Revisión de módulos estándar como `collections`, `functools`, `itertools`, `os`, `pathlib` y `datetime`.
+
+## Modulo 55
+
+### 26. Importación dinámica y `__import__`  
