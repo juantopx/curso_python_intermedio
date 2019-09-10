@@ -34,3 +34,5 @@ Creación de estructuras iterables personalizadas y uso de `yield` para producir
 ### 7. Decoradores  
 
 Modificación del comportamiento de funciones mediante decoradores simples y anidados.
+
+### 8. Clases y objetos  
