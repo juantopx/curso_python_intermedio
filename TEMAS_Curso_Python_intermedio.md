@@ -36,3 +36,5 @@ Creación de estructuras iterables personalizadas y uso de `yield` para producir
 Modificación del comportamiento de funciones mediante decoradores simples y anidados.
 
 ### 8. Clases y objetos  
+
+Revisión de conceptos fundamentales de programación orientada a objetos: clases, atributos, instancias y métodos.
