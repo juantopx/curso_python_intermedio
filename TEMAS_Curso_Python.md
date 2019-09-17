@@ -223,3 +223,7 @@ Revisión de módulos estándar como `collections`, `functools`, `itertools`, `o
 ## Modulo 56
 
 Cargas de módulos en tiempo de ejecución, útiles para sistemas de plugins y herramientas extensibles.
+
+## Modulo 57
+
+### 27. Documentación y doctrings  
