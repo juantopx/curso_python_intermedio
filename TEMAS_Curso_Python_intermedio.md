@@ -38,3 +38,5 @@ Modificación del comportamiento de funciones mediante decoradores simples y ani
 ### 8. Clases y objetos  
 
 Revisión de conceptos fundamentales de programación orientada a objetos: clases, atributos, instancias y métodos.
+
+### 9. Métodos especiales (`__init__`, `__str__`, etc.)  
