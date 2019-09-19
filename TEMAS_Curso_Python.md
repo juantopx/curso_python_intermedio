@@ -227,3 +227,7 @@ Cargas de módulos en tiempo de ejecución, útiles para sistemas de plugins y h
 ## Modulo 57
 
 ### 27. Documentación y doctrings  
+
+## Modulo 58
+
+Buenas prácticas para documentar funciones, clases y módulos usando doctrings y herramientas como `pydoc`.
