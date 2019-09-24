@@ -42,3 +42,5 @@ Revisión de conceptos fundamentales de programación orientada a objetos: clase
 ### 9. Métodos especiales (`__init__`, `__str__`, etc.)  
 
 Uso de métodos mágicos para personalizar el comportamiento de los objetos.
+
+### 10. Herencia y polimorfismo  
