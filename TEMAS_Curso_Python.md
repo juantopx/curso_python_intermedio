@@ -235,3 +235,7 @@ Buenas prácticas para documentar funciones, clases y módulos usando doctrings 
 ## Modulo 59
 
 ### 28. Pruebas con `unittest`  
+
+## Modulo 60
+
+Escritura de pruebas unitarias automatizadas para garantizar la calidad del código.
