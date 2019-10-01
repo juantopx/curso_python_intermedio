@@ -46,3 +46,5 @@ Uso de métodos mágicos para personalizar el comportamiento de los objetos.
 ### 10. Herencia y polimorfismo  
 
 Implementación de jerarquías de clases reutilizables, incluyendo herencia múltiple y sobrescritura de métodos.
+
+### 11. Métodos estáticos y de clase  
