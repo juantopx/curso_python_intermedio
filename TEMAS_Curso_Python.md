@@ -239,3 +239,7 @@ Buenas prácticas para documentar funciones, clases y módulos usando doctrings 
 ## Modulo 60
 
 Escritura de pruebas unitarias automatizadas para garantizar la calidad del código.
+
+## Modulo 61
+
+### 29. Uso de entornos virtuales  
