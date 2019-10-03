@@ -243,3 +243,7 @@ Escritura de pruebas unitarias automatizadas para garantizar la calidad del cód
 ## Modulo 61
 
 ### 29. Uso de entornos virtuales  
+
+## Modulo 62
+
+Gestión de entornos aislados con `venv`, manejo de dependencias con `pip` y archivos `requirements.txt`.
