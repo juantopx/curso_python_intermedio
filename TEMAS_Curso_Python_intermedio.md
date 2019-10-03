@@ -48,3 +48,5 @@ Uso de métodos mágicos para personalizar el comportamiento de los objetos.
 Implementación de jerarquías de clases reutilizables, incluyendo herencia múltiple y sobrescritura de métodos.
 
 ### 11. Métodos estáticos y de clase  
+
+Diferencias entre métodos de instancia, estáticos (`@staticmethod`) y de clase (`@classmethod`).
