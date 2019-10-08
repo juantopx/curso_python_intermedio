@@ -50,3 +50,5 @@ Implementación de jerarquías de clases reutilizables, incluyendo herencia múl
 ### 11. Métodos estáticos y de clase  
 
 Diferencias entre métodos de instancia, estáticos (`@staticmethod`) y de clase (`@classmethod`).
+
+### 12. Encapsulamiento y convenciones  
