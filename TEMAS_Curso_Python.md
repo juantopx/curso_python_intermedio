@@ -251,3 +251,7 @@ Gestión de entornos aislados con `venv`, manejo de dependencias con `pip` y arc
 ## Modulo 63
 
 ### 30. Estructura de un proyecto Python  
+
+## Modulo 64
+
+Organización profesional del código fuente, carpetas, archivos de configuración y distribución de paquetes.
