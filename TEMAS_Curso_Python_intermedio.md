@@ -52,3 +52,5 @@ Implementación de jerarquías de clases reutilizables, incluyendo herencia múl
 Diferencias entre métodos de instancia, estáticos (`@staticmethod`) y de clase (`@classmethod`).
 
 ### 12. Encapsulamiento y convenciones  
+
+Cómo proteger atributos y métodos mediante convenciones (`_`, `__`) y fomentar la modularidad del código.
