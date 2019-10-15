@@ -54,3 +54,5 @@ Diferencias entre métodos de instancia, estáticos (`@staticmethod`) y de clase
 ### 12. Encapsulamiento y convenciones  
 
 Cómo proteger atributos y métodos mediante convenciones (`_`, `__`) y fomentar la modularidad del código.
+
+### 13. Clases abstractas y `abc`  
