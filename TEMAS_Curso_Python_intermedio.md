@@ -56,3 +56,5 @@ Diferencias entre métodos de instancia, estáticos (`@staticmethod`) y de clase
 Cómo proteger atributos y métodos mediante convenciones (`_`, `__`) y fomentar la modularidad del código.
 
 ### 13. Clases abstractas y `abc`  
+
+Definición de interfaces mediante clases abstractas y contratos en Python usando el módulo `abc`.
