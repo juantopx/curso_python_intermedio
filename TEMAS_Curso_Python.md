@@ -267,3 +267,7 @@ Organización profesional del código fuente, carpetas, archivos de configuraci�
 ## Modulo 67
 
 Este contenido cubre los temas fundamentales que todo programador intermedio en Python debe dominar antes de pasar a temas avanzados como desarrollo web, ciencia de datos o programación concurrente a gran escala.
+
+## Modulo 68
+
+----
