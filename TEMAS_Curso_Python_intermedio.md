@@ -62,3 +62,5 @@ Definición de interfaces mediante clases abstractas y contratos en Python usand
 ### 14. Módulos y paquetes  
 
 Organización de código en módulos reutilizables y paquetes jerárquicos; importaciones absolutas y relativas.
+
+### 15. Gestión de excepciones  
