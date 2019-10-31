@@ -64,3 +64,5 @@ Definición de interfaces mediante clases abstractas y contratos en Python usand
 Organización de código en módulos reutilizables y paquetes jerárquicos; importaciones absolutas y relativas.
 
 ### 15. Gestión de excepciones  
+
+Manejo adecuado de errores mediante bloques `try/except`, `finally`, y definición de excepciones personalizadas.
