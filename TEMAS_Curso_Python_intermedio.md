@@ -66,3 +66,5 @@ Organización de código en módulos reutilizables y paquetes jerárquicos; impo
 ### 15. Gestión de excepciones  
 
 Manejo adecuado de errores mediante bloques `try/except`, `finally`, y definición de excepciones personalizadas.
+
+### 16. Context managers y `with`  
