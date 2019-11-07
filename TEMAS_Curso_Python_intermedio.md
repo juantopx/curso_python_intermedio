@@ -68,3 +68,5 @@ Organización de código en módulos reutilizables y paquetes jerárquicos; impo
 Manejo adecuado de errores mediante bloques `try/except`, `finally`, y definición de excepciones personalizadas.
 
 ### 16. Context managers y `with`  
+
+Uso de `with` para manejar recursos, como archivos, de forma segura y eficiente; creación de context managers personalizados.
