@@ -70,3 +70,5 @@ Manejo adecuado de errores mediante bloques `try/except`, `finally`, y definici�
 ### 16. Context managers y `with`  
 
 Uso de `with` para manejar recursos, como archivos, de forma segura y eficiente; creación de context managers personalizados.
+
+### 17. Tipado estático con `typing`  
