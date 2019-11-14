@@ -72,3 +72,5 @@ Manejo adecuado de errores mediante bloques `try/except`, `finally`, y definici�
 Uso de `with` para manejar recursos, como archivos, de forma segura y eficiente; creación de context managers personalizados.
 
 ### 17. Tipado estático con `typing`  
+
+Uso de anotaciones de tipo para mejorar la legibilidad y robustez del código con herramientas como `mypy`.
