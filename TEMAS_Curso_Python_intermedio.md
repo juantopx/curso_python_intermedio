@@ -74,3 +74,5 @@ Uso de `with` para manejar recursos, como archivos, de forma segura y eficiente;
 ### 17. Tipado estático con `typing`  
 
 Uso de anotaciones de tipo para mejorar la legibilidad y robustez del código con herramientas como `mypy`.
+
+### 18. Uso avanzado de listas, tuplas y diccionarios  
