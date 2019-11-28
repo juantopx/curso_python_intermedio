@@ -80,3 +80,5 @@ Uso de anotaciones de tipo para mejorar la legibilidad y robustez del código co
 Técnicas de desempaquetado, comprensión de estructuras anidadas y acceso seguro a elementos.
 
 ### 19. Expresiones regulares  
+
+Uso del módulo `re` para búsqueda, coincidencia y reemplazo de patrones complejos en texto.
