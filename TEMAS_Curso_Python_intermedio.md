@@ -82,3 +82,5 @@ Técnicas de desempaquetado, comprensión de estructuras anidadas y acceso segur
 ### 19. Expresiones regulares  
 
 Uso del módulo `re` para búsqueda, coincidencia y reemplazo de patrones complejos en texto.
+
+### 20. Programación funcional  
