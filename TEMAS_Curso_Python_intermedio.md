@@ -86,3 +86,5 @@ Uso del módulo `re` para búsqueda, coincidencia y reemplazo de patrones comple
 ### 20. Programación funcional  
 
 Aplicación de `map`, `filter`, `reduce` y funciones puras como herramientas de programación funcional.
+
+### 21. Generadores y co-rutinas avanzadas  
