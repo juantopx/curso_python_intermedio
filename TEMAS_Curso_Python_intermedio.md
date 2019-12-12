@@ -88,3 +88,5 @@ Uso del módulo `re` para búsqueda, coincidencia y reemplazo de patrones comple
 Aplicación de `map`, `filter`, `reduce` y funciones puras como herramientas de programación funcional.
 
 ### 21. Generadores y co-rutinas avanzadas  
+
+Profundización en generadores con `send`, `yield from`, y su papel en la concurrencia ligera.
