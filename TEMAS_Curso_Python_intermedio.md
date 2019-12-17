@@ -90,3 +90,5 @@ Aplicación de `map`, `filter`, `reduce` y funciones puras como herramientas de 
 ### 21. Generadores y co-rutinas avanzadas  
 
 Profundización en generadores con `send`, `yield from`, y su papel en la concurrencia ligera.
+
+### 22. Introducción a `async` y `await`  
