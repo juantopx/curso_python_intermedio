@@ -92,3 +92,5 @@ Aplicación de `map`, `filter`, `reduce` y funciones puras como herramientas de 
 Profundización en generadores con `send`, `yield from`, y su papel en la concurrencia ligera.
 
 ### 22. Introducción a `async` y `await`  
+
+Bases de la programación asíncrona con `asyncio`, `await`, y el bucle de eventos.
