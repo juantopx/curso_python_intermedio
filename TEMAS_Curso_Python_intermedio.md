@@ -94,3 +94,5 @@ Profundización en generadores con `send`, `yield from`, y su papel en la concur
 ### 22. Introducción a `async` y `await`  
 
 Bases de la programación asíncrona con `asyncio`, `await`, y el bucle de eventos.
+
+### 23. Manejo de archivos  
