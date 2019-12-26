@@ -96,3 +96,5 @@ Profundización en generadores con `send`, `yield from`, y su papel en la concur
 Bases de la programación asíncrona con `asyncio`, `await`, y el bucle de eventos.
 
 ### 23. Manejo de archivos  
+
+Lectura y escritura de archivos de texto y binarios; gestión eficiente de recursos con `open()`.
