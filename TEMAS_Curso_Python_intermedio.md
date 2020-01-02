@@ -100,3 +100,5 @@ Bases de la programación asíncrona con `asyncio`, `await`, y el bucle de event
 Lectura y escritura de archivos de texto y binarios; gestión eficiente de recursos con `open()`.
 
 ### 24. JSON y serialización  
+
+Conversión de estructuras Python a JSON y viceversa, para almacenamiento y comunicación.
