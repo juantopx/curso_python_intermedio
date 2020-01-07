@@ -102,3 +102,5 @@ Lectura y escritura de archivos de texto y binarios; gestión eficiente de recur
 ### 24. JSON y serialización  
 
 Conversión de estructuras Python a JSON y viceversa, para almacenamiento y comunicación.
+
+### 25. Uso de librerías estándar útiles  
