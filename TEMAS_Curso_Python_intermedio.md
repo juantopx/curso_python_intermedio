@@ -104,3 +104,5 @@ Lectura y escritura de archivos de texto y binarios; gestión eficiente de recur
 Conversión de estructuras Python a JSON y viceversa, para almacenamiento y comunicación.
 
 ### 25. Uso de librerías estándar útiles  
+
+Revisión de módulos estándar como `collections`, `functools`, `itertools`, `os`, `pathlib` y `datetime`.
