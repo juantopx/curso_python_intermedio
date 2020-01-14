@@ -106,3 +106,5 @@ Conversión de estructuras Python a JSON y viceversa, para almacenamiento y comu
 ### 25. Uso de librerías estándar útiles  
 
 Revisión de módulos estándar como `collections`, `functools`, `itertools`, `os`, `pathlib` y `datetime`.
+
+### 26. Importación dinámica y `__import__`  
