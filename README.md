@@ -11,3 +11,7 @@
 ## Modulo 3
 
 3. Los diccionarios permiten almacenar pares clave-valor. Son ideales para acceder rápidamente a datos asociados a una clave específica.
+
+## Modulo 4
+
+4. Los conjuntos (sets) son colecciones no ordenadas de elementos únicos. Permiten operaciones matemáticas como unión, intersección y diferencia.
