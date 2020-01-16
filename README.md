@@ -15,3 +15,7 @@
 ## Modulo 4
 
 4. Los conjuntos (sets) son colecciones no ordenadas de elementos únicos. Permiten operaciones matemáticas como unión, intersección y diferencia.
+
+## Modulo 5
+
+5. El método de comprensión de listas (`list comprehensions`) ofrece una forma concisa de construir listas aplicando transformaciones o filtros a iterables.
