@@ -108,3 +108,5 @@ Conversión de estructuras Python a JSON y viceversa, para almacenamiento y comu
 Revisión de módulos estándar como `collections`, `functools`, `itertools`, `os`, `pathlib` y `datetime`.
 
 ### 26. Importación dinámica y `__import__`  
+
+Cargas de módulos en tiempo de ejecución, útiles para sistemas de plugins y herramientas extensibles.
