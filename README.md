@@ -19,3 +19,7 @@
 ## Modulo 5
 
 5. El método de comprensión de listas (`list comprehensions`) ofrece una forma concisa de construir listas aplicando transformaciones o filtros a iterables.
+
+## Modulo 6
+
+6. Las funciones permiten encapsular lógica reutilizable. Pueden tener parámetros, retornar valores y usar valores por defecto.
