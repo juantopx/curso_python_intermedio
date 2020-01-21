@@ -110,3 +110,5 @@ Revisión de módulos estándar como `collections`, `functools`, `itertools`, `o
 ### 26. Importación dinámica y `__import__`  
 
 Cargas de módulos en tiempo de ejecución, útiles para sistemas de plugins y herramientas extensibles.
+
+### 27. Documentación y doctrings  
