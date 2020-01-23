@@ -112,3 +112,5 @@ Revisión de módulos estándar como `collections`, `functools`, `itertools`, `o
 Cargas de módulos en tiempo de ejecución, útiles para sistemas de plugins y herramientas extensibles.
 
 ### 27. Documentación y doctrings  
+
+Buenas prácticas para documentar funciones, clases y módulos usando doctrings y herramientas como `pydoc`.
