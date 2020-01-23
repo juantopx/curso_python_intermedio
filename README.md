@@ -23,3 +23,7 @@
 ## Modulo 6
 
 6. Las funciones permiten encapsular lógica reutilizable. Pueden tener parámetros, retornar valores y usar valores por defecto.
+
+## Modulo 7
+
+7. `*args` y `**kwargs` permiten definir funciones que aceptan argumentos variables, posicionados y nombrados, respectivamente.
