@@ -114,3 +114,5 @@ Cargas de módulos en tiempo de ejecución, útiles para sistemas de plugins y h
 ### 27. Documentación y doctrings  
 
 Buenas prácticas para documentar funciones, clases y módulos usando doctrings y herramientas como `pydoc`.
+
+### 28. Pruebas con `unittest`  
