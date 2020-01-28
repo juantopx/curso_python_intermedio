@@ -27,3 +27,7 @@
 ## Modulo 7
 
 7. `*args` y `**kwargs` permiten definir funciones que aceptan argumentos variables, posicionados y nombrados, respectivamente.
+
+## Modulo 8
+
+8. Las funciones lambda son funciones anónimas que se definen en una sola línea y se usan comúnmente en operaciones funcionales.
