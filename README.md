@@ -31,3 +31,7 @@
 ## Modulo 8
 
 8. Las funciones lambda son funciones anónimas que se definen en una sola línea y se usan comúnmente en operaciones funcionales.
+
+## Modulo 9
+
+9. El concepto de ámbito (scope) en Python determina dónde son accesibles las variables. Incluye el ámbito local, global y no local.
