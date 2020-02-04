@@ -35,3 +35,7 @@
 ## Modulo 9
 
 9. El concepto de ámbito (scope) en Python determina dónde son accesibles las variables. Incluye el ámbito local, global y no local.
+
+## Modulo 10
+
+10. Las funciones pueden anidarse, permitiendo la creación de closures, que conservan el contexto donde fueron definidas.
