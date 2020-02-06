@@ -39,3 +39,7 @@
 ## Modulo 10
 
 10. Las funciones pueden anidarse, permitiendo la creación de closures, que conservan el contexto donde fueron definidas.
+
+## Modulo 11
+
+11. Las funciones `map`, `filter` y `reduce` permiten aplicar operaciones funcionales a secuencias, como transformar, filtrar o acumular datos.
