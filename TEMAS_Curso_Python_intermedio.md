@@ -120,3 +120,5 @@ Buenas prácticas para documentar funciones, clases y módulos usando doctrings 
 Escritura de pruebas unitarias automatizadas para garantizar la calidad del código.
 
 ### 29. Uso de entornos virtuales  
+
+Gestión de entornos aislados con `venv`, manejo de dependencias con `pip` y archivos `requirements.txt`.
