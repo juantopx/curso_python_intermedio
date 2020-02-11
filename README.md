@@ -43,3 +43,7 @@
 ## Modulo 11
 
 11. Las funciones `map`, `filter` y `reduce` permiten aplicar operaciones funcionales a secuencias, como transformar, filtrar o acumular datos.
+
+## Modulo 12
+
+12. Las funciones en Python son ciudadanos de primera clase, lo que significa que pueden ser asignadas a variables, pasadas como argumentos y retornadas.
