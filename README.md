@@ -47,3 +47,7 @@
 ## Modulo 12
 
 12. Las funciones en Python son ciudadanos de primera clase, lo que significa que pueden ser asignadas a variables, pasadas como argumentos y retornadas.
+
+## Modulo 13
+
+13. El manejo de errores en Python se realiza mediante bloques `try`, `except`, `else` y `finally` para controlar y responder a excepciones.
