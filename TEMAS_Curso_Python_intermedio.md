@@ -124,3 +124,5 @@ Escritura de pruebas unitarias automatizadas para garantizar la calidad del cód
 Gestión de entornos aislados con `venv`, manejo de dependencias con `pip` y archivos `requirements.txt`.
 
 ### 30. Estructura de un proyecto Python  
+
+Organización profesional del código fuente, carpetas, archivos de configuración y distribución de paquetes.
