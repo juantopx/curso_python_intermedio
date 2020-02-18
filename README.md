@@ -51,3 +51,7 @@
 ## Modulo 13
 
 13. El manejo de errores en Python se realiza mediante bloques `try`, `except`, `else` y `finally` para controlar y responder a excepciones.
+
+## Modulo 14
+
+14. Capturar excepciones específicas en lugar de usar `except:` mejora la claridad del código y evita errores ocultos.
