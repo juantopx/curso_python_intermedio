@@ -126,3 +126,5 @@ Gestión de entornos aislados con `venv`, manejo de dependencias con `pip` y arc
 ### 30. Estructura de un proyecto Python  
 
 Organización profesional del código fuente, carpetas, archivos de configuración y distribución de paquetes.
+
+---
