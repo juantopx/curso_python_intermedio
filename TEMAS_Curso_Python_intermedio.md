@@ -128,3 +128,5 @@ Gestión de entornos aislados con `venv`, manejo de dependencias con `pip` y arc
 Organización profesional del código fuente, carpetas, archivos de configuración y distribución de paquetes.
 
 ---
+
+## 🏁 Fin del Curso (versión intermedia)
