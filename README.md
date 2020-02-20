@@ -55,3 +55,7 @@
 ## Modulo 14
 
 14. Capturar excepciones específicas en lugar de usar `except:` mejora la claridad del código y evita errores ocultos.
+
+## Modulo 15
+
+15. Se pueden definir excepciones personalizadas heredando de la clase `Exception`, lo que facilita el control detallado de errores.
