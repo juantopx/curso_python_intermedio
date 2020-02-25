@@ -59,3 +59,7 @@
 ## Modulo 15
 
 15. Se pueden definir excepciones personalizadas heredando de la clase `Exception`, lo que facilita el control detallado de errores.
+
+## Modulo 16
+
+16. Python permite la POO, donde las clases definen atributos y métodos, y los objetos son instancias de estas clases.
