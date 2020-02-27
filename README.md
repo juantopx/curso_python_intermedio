@@ -63,3 +63,7 @@
 ## Modulo 16
 
 16. Python permite la POO, donde las clases definen atributos y métodos, y los objetos son instancias de estas clases.
+
+## Modulo 17
+
+17. El método `__init__` actúa como constructor de una clase e inicializa los atributos del objeto.
