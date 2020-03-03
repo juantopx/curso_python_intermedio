@@ -67,3 +67,7 @@
 ## Modulo 17
 
 17. El método `__init__` actúa como constructor de una clase e inicializa los atributos del objeto.
+
+## Modulo 18
+
+18. La herencia permite a una clase hija heredar métodos y atributos de una clase padre, promoviendo la reutilización de código.
