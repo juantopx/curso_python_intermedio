@@ -71,3 +71,7 @@
 ## Modulo 18
 
 18. La herencia permite a una clase hija heredar métodos y atributos de una clase padre, promoviendo la reutilización de código.
+
+## Modulo 19
+
+19. La sobreescritura (override) de métodos permite redefinir el comportamiento heredado en una subclase.
