@@ -75,3 +75,7 @@
 ## Modulo 19
 
 19. La sobreescritura (override) de métodos permite redefinir el comportamiento heredado en una subclase.
+
+## Modulo 20
+
+20. Los métodos `@staticmethod` y `@classmethod` definen funciones asociadas a la clase que no dependen del estado del objeto.
