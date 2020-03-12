@@ -79,3 +79,7 @@
 ## Modulo 20
 
 20. Los métodos `@staticmethod` y `@classmethod` definen funciones asociadas a la clase que no dependen del estado del objeto.
+
+## Modulo 21
+
+21. Un módulo es un archivo `.py` que contiene funciones y clases reutilizables. Se importa con `import` o `from`.
