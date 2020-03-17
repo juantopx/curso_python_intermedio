@@ -83,3 +83,7 @@
 ## Modulo 21
 
 21. Un módulo es un archivo `.py` que contiene funciones y clases reutilizables. Se importa con `import` o `from`.
+
+## Modulo 22
+
+22. Los paquetes son carpetas que agrupan módulos y contienen un archivo `__init__.py`. Permiten estructurar grandes proyectos.
