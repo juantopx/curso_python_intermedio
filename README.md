@@ -87,3 +87,7 @@
 ## Modulo 22
 
 22. Los paquetes son carpetas que agrupan módulos y contienen un archivo `__init__.py`. Permiten estructurar grandes proyectos.
+
+## Modulo 23
+
+23. Se pueden importar módulos completos o partes específicas, y también usar alias para acortar nombres de importación.
