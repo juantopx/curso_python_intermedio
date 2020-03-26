@@ -95,3 +95,7 @@
 ## Modulo 24
 
 24. Python permite trabajar con archivos usando `open()`, junto con los métodos `read()`, `write()` y `close()`.
+
+## Modulo 25
+
+25. El uso del bloque `with open(...)` garantiza el cierre automático del archivo, incluso si ocurre una excepción.
