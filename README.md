@@ -99,3 +99,7 @@
 ## Modulo 25
 
 25. El uso del bloque `with open(...)` garantiza el cierre automático del archivo, incluso si ocurre una excepción.
+
+## Modulo 26
+
+26. Los iteradores son objetos que implementan los métodos `__iter__()` y `__next__()` y permiten recorrer estructuras secuenciales.
