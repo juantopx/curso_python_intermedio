@@ -103,3 +103,7 @@
 ## Modulo 26
 
 26. Los iteradores son objetos que implementan los métodos `__iter__()` y `__next__()` y permiten recorrer estructuras secuenciales.
+
+## Modulo 27
+
+27. Los generadores permiten crear iteradores de forma sencilla usando `yield`, ideal para grandes volúmenes de datos.
