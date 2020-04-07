@@ -107,3 +107,7 @@
 ## Modulo 27
 
 27. Los generadores permiten crear iteradores de forma sencilla usando `yield`, ideal para grandes volúmenes de datos.
+
+## Modulo 28
+
+28. El módulo `re` permite trabajar con expresiones regulares para buscar, extraer y manipular patrones en cadenas de texto.
