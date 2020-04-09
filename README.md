@@ -111,3 +111,7 @@
 ## Modulo 28
 
 28. El módulo `re` permite trabajar con expresiones regulares para buscar, extraer y manipular patrones en cadenas de texto.
+
+## Modulo 29
+
+29. Se pueden usar grupos en expresiones regulares con paréntesis `()` para capturar subpatrones específicos dentro del texto.
