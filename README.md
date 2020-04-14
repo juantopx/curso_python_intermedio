@@ -115,3 +115,7 @@
 ## Modulo 29
 
 29. Se pueden usar grupos en expresiones regulares con paréntesis `()` para capturar subpatrones específicos dentro del texto.
+
+## Modulo 30
+
+30. Los decoradores modifican el comportamiento de funciones envolviéndolas con otras funciones, y se usan comúnmente con `@decorador`.
