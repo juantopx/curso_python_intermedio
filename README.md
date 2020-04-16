@@ -119,3 +119,7 @@
 ## Modulo 30
 
 30. Los decoradores modifican el comportamiento de funciones envolviéndolas con otras funciones, y se usan comúnmente con `@decorador`.
+
+## Modulo 31
+
+31. Un closure es una función que recuerda el entorno donde fue creada, útil para mantener estados privados entre llamadas.
