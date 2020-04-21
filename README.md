@@ -123,3 +123,7 @@
 ## Modulo 31
 
 31. Un closure es una función que recuerda el entorno donde fue creada, útil para mantener estados privados entre llamadas.
+
+## Modulo 32
+
+32. Las comprensiones de diccionarios permiten crear diccionarios en una sola línea a partir de otros iterables.
