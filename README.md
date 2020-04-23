@@ -127,3 +127,7 @@
 ## Modulo 32
 
 32. Las comprensiones de diccionarios permiten crear diccionarios en una sola línea a partir de otros iterables.
+
+## Modulo 33
+
+33. Las comprensiones de conjuntos permiten generar colecciones únicas de elementos usando condiciones y transformaciones.
