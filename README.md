@@ -131,3 +131,7 @@
 ## Modulo 33
 
 33. Las comprensiones de conjuntos permiten generar colecciones únicas de elementos usando condiciones y transformaciones.
+
+## Modulo 34
+
+34. Los context managers permiten controlar recursos de forma automática, como archivos o conexiones, usando `with`.
