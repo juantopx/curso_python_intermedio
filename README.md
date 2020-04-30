@@ -135,3 +135,7 @@
 ## Modulo 34
 
 34. Los context managers permiten controlar recursos de forma automática, como archivos o conexiones, usando `with`.
+
+## Modulo 35
+
+35. Python permite añadir anotaciones de tipo con `type hints`, mejorando la legibilidad y facilitando la detección de errores.
