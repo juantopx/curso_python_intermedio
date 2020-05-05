@@ -139,3 +139,7 @@
 ## Modulo 35
 
 35. Python permite añadir anotaciones de tipo con `type hints`, mejorando la legibilidad y facilitando la detección de errores.
+
+## Modulo 36
+
+36. Python incluye el módulo `unittest` para escribir pruebas automatizadas que aseguren que las funciones se comportan como se espera.
