@@ -143,3 +143,7 @@
 ## Modulo 36
 
 36. Python incluye el módulo `unittest` para escribir pruebas automatizadas que aseguren que las funciones se comportan como se espera.
+
+## Modulo 37
+
+37. El módulo `datetime` permite trabajar con fechas y horas, incluyendo cálculos y formateo personalizado.
