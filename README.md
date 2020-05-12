@@ -147,3 +147,7 @@
 ## Modulo 37
 
 37. El módulo `datetime` permite trabajar con fechas y horas, incluyendo cálculos y formateo personalizado.
+
+## Modulo 38
+
+38. El módulo `os` permite interactuar con el sistema operativo, como acceder a rutas de archivos, variables de entorno o procesos.
