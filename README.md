@@ -151,3 +151,7 @@
 ## Modulo 38
 
 38. El módulo `os` permite interactuar con el sistema operativo, como acceder a rutas de archivos, variables de entorno o procesos.
+
+## Modulo 39
+
+39. El módulo `sys` da acceso a variables y funciones que interactúan con el intérprete de Python.
