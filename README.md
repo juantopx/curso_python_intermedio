@@ -155,3 +155,7 @@
 ## Modulo 39
 
 39. El módulo `sys` da acceso a variables y funciones que interactúan con el intérprete de Python.
+
+## Modulo 40
+
+40. El módulo `collections` ofrece estructuras de datos especializadas como `defaultdict`, `Counter` y `deque`.
