@@ -159,3 +159,7 @@
 ## Modulo 40
 
 40. El módulo `collections` ofrece estructuras de datos especializadas como `defaultdict`, `Counter` y `deque`.
+
+## Modulo 41
+
+41. El módulo `functools` proporciona herramientas para programación funcional, como `lru_cache`, `partial` y `wraps`.
