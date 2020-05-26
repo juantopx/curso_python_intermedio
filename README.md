@@ -163,3 +163,7 @@
 ## Modulo 41
 
 41. El módulo `functools` proporciona herramientas para programación funcional, como `lru_cache`, `partial` y `wraps`.
+
+## Modulo 42
+
+42. El módulo `itertools` ofrece herramientas eficientes para trabajar con iteradores, como `product`, `permutations`, y `groupby`.
