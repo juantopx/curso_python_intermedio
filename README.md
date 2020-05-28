@@ -167,3 +167,7 @@
 ## Modulo 42
 
 42. El módulo `itertools` ofrece herramientas eficientes para trabajar con iteradores, como `product`, `permutations`, y `groupby`.
+
+## Modulo 43
+
+43. Python permite introspección, es decir, examinar objetos en tiempo de ejecución con funciones como `type()`, `dir()`, `getattr()` y `hasattr()`.
