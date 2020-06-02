@@ -171,3 +171,7 @@
 ## Modulo 43
 
 43. Python permite introspección, es decir, examinar objetos en tiempo de ejecución con funciones como `type()`, `dir()`, `getattr()` y `hasattr()`.
+
+## Modulo 44
+
+44. Las anotaciones de tipo pueden ser reforzadas usando herramientas como `mypy` para realizar verificación estática de tipos.
