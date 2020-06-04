@@ -175,3 +175,7 @@
 ## Modulo 44
 
 44. Las anotaciones de tipo pueden ser reforzadas usando herramientas como `mypy` para realizar verificación estática de tipos.
+
+## Modulo 45
+
+45. La serialización convierte estructuras en cadenas o bytes. Python ofrece `pickle`, `json` y `marshal` para este propósito.
