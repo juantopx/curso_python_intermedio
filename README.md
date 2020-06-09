@@ -179,3 +179,7 @@
 ## Modulo 45
 
 45. La serialización convierte estructuras en cadenas o bytes. Python ofrece `pickle`, `json` y `marshal` para este propósito.
+
+## Modulo 46
+
+46. El módulo `json` permite convertir objetos entre JSON y estructuras de Python como diccionarios o listas.
