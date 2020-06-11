@@ -183,3 +183,7 @@
 ## Modulo 46
 
 46. El módulo `json` permite convertir objetos entre JSON y estructuras de Python como diccionarios o listas.
+
+## Modulo 47
+
+47. `pickle` permite serializar objetos de Python en binario, útil para guardar estados complejos pero no seguro con datos externos.
