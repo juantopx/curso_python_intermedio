@@ -187,3 +187,7 @@
 ## Modulo 47
 
 47. `pickle` permite serializar objetos de Python en binario, útil para guardar estados complejos pero no seguro con datos externos.
+
+## Modulo 48
+
+48. Python permite la ejecución dinámica de código con `eval()` y `exec()`, aunque deben usarse con precaución por razones de seguridad.
