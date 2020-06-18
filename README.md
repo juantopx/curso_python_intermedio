@@ -191,3 +191,7 @@
 ## Modulo 48
 
 48. Python permite la ejecución dinámica de código con `eval()` y `exec()`, aunque deben usarse con precaución por razones de seguridad.
+
+## Modulo 49
+
+49. Los generadores pueden delegar a otros generadores con `yield from`, lo que facilita la composición de generadores complejos.
