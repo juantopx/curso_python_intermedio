@@ -195,3 +195,7 @@
 ## Modulo 49
 
 49. Los generadores pueden delegar a otros generadores con `yield from`, lo que facilita la composición de generadores complejos.
+
+## Modulo 50
+
+50. Un iterador personalizado puede implementarse definiendo una clase con los métodos `__iter__()` y `__next__()`.
