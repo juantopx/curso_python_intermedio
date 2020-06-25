@@ -199,3 +199,7 @@
 ## Modulo 50
 
 50. Un iterador personalizado puede implementarse definiendo una clase con los métodos `__iter__()` y `__next__()`.
+
+## Modulo 51
+
+51. Las expresiones generadoras (`(x for x in iterable)`) permiten crear iteradores sin usar memoria adicional para listas completas.
