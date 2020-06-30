@@ -203,3 +203,7 @@
 ## Modulo 51
 
 51. Las expresiones generadoras (`(x for x in iterable)`) permiten crear iteradores sin usar memoria adicional para listas completas.
+
+## Modulo 52
+
+52. Las metaclases permiten modificar el comportamiento de clases al ser creadas, mediante la redefinición del método `__new__()` en la clase metaclase.
