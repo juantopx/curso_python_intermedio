@@ -207,3 +207,7 @@
 ## Modulo 52
 
 52. Las metaclases permiten modificar el comportamiento de clases al ser creadas, mediante la redefinición del método `__new__()` en la clase metaclase.
+
+## Modulo 53
+
+53. La función `super()` permite llamar métodos de la clase padre en una jerarquía de herencia, útil en herencia múltiple.
