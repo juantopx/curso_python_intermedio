@@ -211,3 +211,7 @@
 ## Modulo 53
 
 53. La función `super()` permite llamar métodos de la clase padre en una jerarquía de herencia, útil en herencia múltiple.
+
+## Modulo 54
+
+54. Python permite sobrecargar operadores implementando métodos especiales como `__add__`, `__len__`, `__getitem__`, etc.
