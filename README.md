@@ -215,3 +215,7 @@
 ## Modulo 54
 
 54. Python permite sobrecargar operadores implementando métodos especiales como `__add__`, `__len__`, `__getitem__`, etc.
+
+## Modulo 55
+
+55. El método `__call__()` permite a una instancia de clase comportarse como una función.
