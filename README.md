@@ -219,3 +219,7 @@
 ## Modulo 55
 
 55. El método `__call__()` permite a una instancia de clase comportarse como una función.
+
+## Modulo 56
+
+56. Los context managers personalizados se crean con clases que implementan `__enter__()` y `__exit__()` o usando el decorador `@contextmanager`.
