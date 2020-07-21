@@ -227,3 +227,7 @@
 ## Modulo 57
 
 57. Python incluye `argparse` para construir interfaces de línea de comandos robustas con argumentos posicionales y opcionales.
+
+## Modulo 58
+
+58. El módulo `logging` ofrece un sistema configurable para registrar mensajes, con distintos niveles como `debug`, `info`, `warning`, `error`, y `critical`.
