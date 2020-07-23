@@ -231,3 +231,7 @@
 ## Modulo 58
 
 58. El módulo `logging` ofrece un sistema configurable para registrar mensajes, con distintos niveles como `debug`, `info`, `warning`, `error`, y `critical`.
+
+## Modulo 59
+
+59. Las excepciones pueden encadenarse explícitamente con `raise ... from ...` para mantener el contexto original del error.
