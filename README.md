@@ -235,3 +235,7 @@
 ## Modulo 59
 
 59. Las excepciones pueden encadenarse explícitamente con `raise ... from ...` para mantener el contexto original del error.
+
+## Modulo 60
+
+60. Python soporta multiprocesamiento con el módulo `multiprocessing`, útil para aprovechar varios núcleos de CPU.
