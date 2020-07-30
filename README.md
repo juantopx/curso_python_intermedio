@@ -239,3 +239,7 @@
 ## Modulo 60
 
 60. Python soporta multiprocesamiento con el módulo `multiprocessing`, útil para aprovechar varios núcleos de CPU.
+
+## Modulo 61
+
+61. El módulo `threading` permite ejecutar código en múltiples hilos, útil para tareas I/O concurrentes.
