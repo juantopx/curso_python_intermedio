@@ -243,3 +243,7 @@
 ## Modulo 61
 
 61. El módulo `threading` permite ejecutar código en múltiples hilos, útil para tareas I/O concurrentes.
+
+## Modulo 62
+
+62. Python gestiona memoria automáticamente con un recolector de basura que elimina objetos no referenciados.
