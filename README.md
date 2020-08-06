@@ -247,3 +247,7 @@
 ## Modulo 62
 
 62. Python gestiona memoria automáticamente con un recolector de basura que elimina objetos no referenciados.
+
+## Modulo 63
+
+63. El protocolo de datos de Python permite la implementación de objetos que se comportan como secuencias, iteradores o mapeos.
