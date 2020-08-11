@@ -251,3 +251,7 @@
 ## Modulo 63
 
 63. El protocolo de datos de Python permite la implementación de objetos que se comportan como secuencias, iteradores o mapeos.
+
+## Modulo 64
+
+64. El método `__repr__()` proporciona una representación textual de un objeto para depuración, mientras que `__str__()` da una forma legible.
