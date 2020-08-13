@@ -255,3 +255,7 @@
 ## Modulo 64
 
 64. El método `__repr__()` proporciona una representación textual de un objeto para depuración, mientras que `__str__()` da una forma legible.
+
+## Modulo 65
+
+65. El protocolo de comparación se basa en métodos como `__eq__`, `__lt__`, `__gt__`, etc., usados por operadores como `==`, `<`, `>`.
