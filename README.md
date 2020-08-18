@@ -259,3 +259,7 @@
 ## Modulo 65
 
 65. El protocolo de comparación se basa en métodos como `__eq__`, `__lt__`, `__gt__`, etc., usados por operadores como `==`, `<`, `>`.
+
+## Modulo 66
+
+66. Las propiedades con `@property` permiten acceder a métodos como si fueran atributos, habilitando lógica controlada en accesos y asignaciones.
