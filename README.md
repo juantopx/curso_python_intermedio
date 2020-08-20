@@ -263,3 +263,7 @@
 ## Modulo 66
 
 66. Las propiedades con `@property` permiten acceder a métodos como si fueran atributos, habilitando lógica controlada en accesos y asignaciones.
+
+## Modulo 67
+
+67. Python soporta la orientación a eventos, común en interfaces gráficas o programación asincrónica.
