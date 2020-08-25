@@ -267,3 +267,7 @@
 ## Modulo 67
 
 67. Python soporta la orientación a eventos, común en interfaces gráficas o programación asincrónica.
+
+## Modulo 68
+
+68. Los módulos `time` y `datetime` permiten medir tiempos, convertir formatos y realizar cálculos con fechas.
