@@ -271,3 +271,7 @@
 ## Modulo 68
 
 68. Los módulos `time` y `datetime` permiten medir tiempos, convertir formatos y realizar cálculos con fechas.
+
+## Modulo 69
+
+69. Las clases abstractas se definen con `abc.ABC` y `@abstractmethod`, asegurando que subclases implementen ciertos métodos.
