@@ -275,3 +275,7 @@
 ## Modulo 69
 
 69. Las clases abstractas se definen con `abc.ABC` y `@abstractmethod`, asegurando que subclases implementen ciertos métodos.
+
+## Modulo 70
+
+70. El módulo `enum` permite crear enumeraciones que agrupan constantes con nombres semánticos.
