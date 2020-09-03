@@ -279,3 +279,7 @@
 ## Modulo 70
 
 70. El módulo `enum` permite crear enumeraciones que agrupan constantes con nombres semánticos.
+
+## Modulo 71
+
+71. El módulo `pathlib` ofrece una interfaz orientada a objetos para trabajar con rutas y archivos.
