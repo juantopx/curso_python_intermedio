@@ -283,3 +283,7 @@
 ## Modulo 71
 
 71. El módulo `pathlib` ofrece una interfaz orientada a objetos para trabajar con rutas y archivos.
+
+## Modulo 72
+
+72. El módulo `typing` introduce tipos genéricos como `List[str]`, `Dict[str, int]` y `Union[int, None]` para mejorar la claridad del código.
