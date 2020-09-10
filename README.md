@@ -287,3 +287,7 @@
 ## Modulo 72
 
 72. El módulo `typing` introduce tipos genéricos como `List[str]`, `Dict[str, int]` y `Union[int, None]` para mejorar la claridad del código.
+
+## Modulo 73
+
+73. El método `__slots__` permite definir atributos fijos en una clase y reduce el consumo de memoria al evitar diccionarios de atributos.
