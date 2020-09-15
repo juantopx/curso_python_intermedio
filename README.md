@@ -291,3 +291,7 @@
 ## Modulo 73
 
 73. El método `__slots__` permite definir atributos fijos en una clase y reduce el consumo de memoria al evitar diccionarios de atributos.
+
+## Modulo 74
+
+74. El patrón singleton asegura que solo exista una instancia de una clase, útil en controladores o registros globales.
