@@ -295,3 +295,7 @@
 ## Modulo 74
 
 74. El patrón singleton asegura que solo exista una instancia de una clase, útil en controladores o registros globales.
+
+## Modulo 75
+
+75. Los mixins son clases diseñadas para ser combinadas con otras clases, aportando funcionalidad sin herencia completa.
