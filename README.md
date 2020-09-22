@@ -299,3 +299,7 @@
 ## Modulo 75
 
 75. Los mixins son clases diseñadas para ser combinadas con otras clases, aportando funcionalidad sin herencia completa.
+
+## Modulo 76
+
+76. Python permite sobrecargar funciones usando módulos como `functools.singledispatch`, útil para cambiar comportamiento según el tipo de argumento.
