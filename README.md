@@ -303,3 +303,7 @@
 ## Modulo 76
 
 76. Python permite sobrecargar funciones usando módulos como `functools.singledispatch`, útil para cambiar comportamiento según el tipo de argumento.
+
+## Modulo 77
+
+77. El módulo `concurrent.futures` facilita la programación concurrente con `ThreadPoolExecutor` y `ProcessPoolExecutor`.
