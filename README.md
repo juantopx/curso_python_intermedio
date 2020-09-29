@@ -307,3 +307,7 @@
 ## Modulo 77
 
 77. El módulo `concurrent.futures` facilita la programación concurrente con `ThreadPoolExecutor` y `ProcessPoolExecutor`.
+
+## Modulo 78
+
+78. Python soporta programación asíncrona con `async def`, `await`, y el módulo `asyncio`, útil para tareas I/O concurrentes.
