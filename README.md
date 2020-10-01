@@ -311,3 +311,7 @@
 ## Modulo 78
 
 78. Python soporta programación asíncrona con `async def`, `await`, y el módulo `asyncio`, útil para tareas I/O concurrentes.
+
+## Modulo 79
+
+79. Un `event loop` ejecuta tareas asíncronas en Python, controlando su orden y esperando por operaciones no bloqueantes.
