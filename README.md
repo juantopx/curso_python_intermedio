@@ -315,3 +315,7 @@
 ## Modulo 79
 
 79. Un `event loop` ejecuta tareas asíncronas en Python, controlando su orden y esperando por operaciones no bloqueantes.
+
+## Modulo 80
+
+80. La palabra clave `await` suspende la ejecución de una función asíncrona hasta que se complete una tarea, sin bloquear el hilo.
