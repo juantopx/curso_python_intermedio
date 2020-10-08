@@ -319,3 +319,7 @@
 ## Modulo 80
 
 80. La palabra clave `await` suspende la ejecución de una función asíncrona hasta que se complete una tarea, sin bloquear el hilo.
+
+## Modulo 81
+
+81. Python permite trabajar con sockets para construir servidores y clientes TCP/IP de bajo nivel.
