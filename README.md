@@ -323,3 +323,7 @@
 ## Modulo 81
 
 81. Python permite trabajar con sockets para construir servidores y clientes TCP/IP de bajo nivel.
+
+## Modulo 82
+
+82. El módulo `requests` facilita el consumo de APIs REST y la gestión de peticiones HTTP.
