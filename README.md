@@ -327,3 +327,7 @@
 ## Modulo 82
 
 82. El módulo `requests` facilita el consumo de APIs REST y la gestión de peticiones HTTP.
+
+## Modulo 83
+
+83. `contextlib.suppress()` ignora ciertas excepciones dentro de un bloque, evitando múltiples `try-except` anidados.
