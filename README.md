@@ -331,3 +331,7 @@
 ## Modulo 83
 
 83. `contextlib.suppress()` ignora ciertas excepciones dentro de un bloque, evitando múltiples `try-except` anidados.
+
+## Modulo 84
+
+84. Python permite extender tipos integrados creando subclases de `list`, `dict` u otros tipos para personalizar comportamiento.
