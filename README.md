@@ -335,3 +335,7 @@
 ## Modulo 84
 
 84. Python permite extender tipos integrados creando subclases de `list`, `dict` u otros tipos para personalizar comportamiento.
+
+## Modulo 85
+
+85. El módulo `hashlib` permite calcular hashes seguros como SHA-256 o MD5, útiles para verificar integridad de datos.
