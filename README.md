@@ -339,3 +339,7 @@
 ## Modulo 85
 
 85. El módulo `hashlib` permite calcular hashes seguros como SHA-256 o MD5, útiles para verificar integridad de datos.
+
+## Modulo 86
+
+86. El módulo `uuid` permite generar identificadores únicos universales (UUID), usados comúnmente como claves en sistemas distribuidos.
