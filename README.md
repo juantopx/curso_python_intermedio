@@ -343,3 +343,7 @@
 ## Modulo 86
 
 86. El módulo `uuid` permite generar identificadores únicos universales (UUID), usados comúnmente como claves en sistemas distribuidos.
+
+## Modulo 87
+
+87. El módulo `secrets` ofrece funciones seguras para generar contraseñas o tokens aleatorios, preferido sobre `random` para propósitos criptográficos.
