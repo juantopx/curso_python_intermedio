@@ -347,3 +347,7 @@
 ## Modulo 87
 
 87. El módulo `secrets` ofrece funciones seguras para generar contraseñas o tokens aleatorios, preferido sobre `random` para propósitos criptográficos.
+
+## Modulo 88
+
+88. `heapq` proporciona una implementación eficiente de colas con prioridad (min-heaps), útil en algoritmos como Dijkstra.
