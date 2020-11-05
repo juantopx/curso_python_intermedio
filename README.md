@@ -351,3 +351,7 @@
 ## Modulo 88
 
 88. `heapq` proporciona una implementación eficiente de colas con prioridad (min-heaps), útil en algoritmos como Dijkstra.
+
+## Modulo 89
+
+89. Python soporta el patrón observer usando callbacks o bibliotecas como `Observable` para aplicaciones reactivas.
