@@ -355,3 +355,7 @@
 ## Modulo 89
 
 89. Python soporta el patrón observer usando callbacks o bibliotecas como `Observable` para aplicaciones reactivas.
+
+## Modulo 90
+
+90. Los decoradores pueden aceptar argumentos si están definidos como funciones que retornan decoradores.
