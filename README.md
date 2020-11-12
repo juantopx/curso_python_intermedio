@@ -359,3 +359,7 @@
 ## Modulo 90
 
 90. Los decoradores pueden aceptar argumentos si están definidos como funciones que retornan decoradores.
+
+## Modulo 91
+
+91. Las pruebas parametrizadas en `pytest` permiten ejecutar una misma prueba con diferentes entradas, aumentando la cobertura.
