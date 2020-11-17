@@ -363,3 +363,7 @@
 ## Modulo 91
 
 91. Las pruebas parametrizadas en `pytest` permiten ejecutar una misma prueba con diferentes entradas, aumentando la cobertura.
+
+## Modulo 92
+
+92. Las fixtures en `pytest` inicializan recursos reutilizables antes de ejecutar las pruebas, como conexiones o datos.
