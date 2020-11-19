@@ -367,3 +367,7 @@
 ## Modulo 92
 
 92. Las fixtures en `pytest` inicializan recursos reutilizables antes de ejecutar las pruebas, como conexiones o datos.
+
+## Modulo 93
+
+93. Python permite importar código dinámicamente con `__import__()` o `importlib`, útil para plugins o extensiones.
