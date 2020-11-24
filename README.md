@@ -371,3 +371,7 @@
 ## Modulo 93
 
 93. Python permite importar código dinámicamente con `__import__()` o `importlib`, útil para plugins o extensiones.
+
+## Modulo 94
+
+94. El patrón fábrica (`factory`) encapsula la lógica de creación de objetos, promoviendo la separación entre lógica y construcción.
