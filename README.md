@@ -375,3 +375,7 @@
 ## Modulo 94
 
 94. El patrón fábrica (`factory`) encapsula la lógica de creación de objetos, promoviendo la separación entre lógica y construcción.
+
+## Modulo 95
+
+95. El patrón decorador permite añadir comportamiento a objetos en tiempo de ejecución, útil en diseño flexible de aplicaciones.
