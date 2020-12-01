@@ -379,3 +379,7 @@
 ## Modulo 95
 
 95. El patrón decorador permite añadir comportamiento a objetos en tiempo de ejecución, útil en diseño flexible de aplicaciones.
+
+## Modulo 96
+
+96. El uso de `assert` en pruebas ayuda a validar condiciones que deben cumplirse durante la ejecución.
