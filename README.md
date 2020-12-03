@@ -383,3 +383,7 @@
 ## Modulo 96
 
 96. El uso de `assert` en pruebas ayuda a validar condiciones que deben cumplirse durante la ejecución.
+
+## Modulo 97
+
+97. Las anotaciones de tipos pueden incluir literales, alias y tipos compuestos para mejorar el diseño de APIs.
