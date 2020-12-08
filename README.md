@@ -387,3 +387,7 @@
 ## Modulo 97
 
 97. Las anotaciones de tipos pueden incluir literales, alias y tipos compuestos para mejorar el diseño de APIs.
+
+## Modulo 98
+
+98. La serialización de objetos complejos se puede personalizar implementando los métodos `__getstate__` y `__setstate__`.
