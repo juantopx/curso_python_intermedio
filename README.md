@@ -391,3 +391,7 @@
 ## Modulo 98
 
 98. La serialización de objetos complejos se puede personalizar implementando los métodos `__getstate__` y `__setstate__`.
+
+## Modulo 99
+
+99. Python soporta metaprogramación: escribir código que manipula código, usando introspección y modificación dinámica.
