@@ -395,3 +395,7 @@
 ## Modulo 99
 
 99. Python soporta metaprogramación: escribir código que manipula código, usando introspección y modificación dinámica.
+
+## Modulo 100
+
+100. La documentación con docstrings y herramientas como `Sphinx` permite generar documentación clara y navegable para bibliotecas y aplicaciones.
